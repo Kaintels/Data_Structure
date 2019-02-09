@@ -1,4 +1,0 @@
-﻿  homework.c
-g:\programming\sahmyook univ\data structure\homework\week6_homework\week6_homework\homework.c(12): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-g:\programming\sahmyook univ\data structure\homework\week6_homework\week6_homework\homework.c(106): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  Week6_homework.vcxproj -> G:\Programming\Sahmyook Univ\Data Structure\homework\Week6_homework\Debug\Week6_homework.exe
